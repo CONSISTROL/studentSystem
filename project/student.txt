@@ -1,0 +1,14 @@
+name:zhangsan
+number:123456
+sex:man
+birthday:2020.1.1
+id:32082100000
+classNo:N502
+
+name:lisi
+number:123456
+sex:man
+birthday:2020.1.1
+id:32082100000
+classNo:N502
+
